@@ -1,4 +1,4 @@
-The provided Rust codebase comprises a set of smart contracts designed for managing Non-Fungible Tokens (NFTs) within the Soroban environment. Here's a summary of the README.md file:
+This project comprises a set of smart contracts designed for managing Non-Fungible Tokens (NFTs) within the Soroban environment.
 
 ### Overview
 - The project contains a `src` folder and a `Cargo.toml` file.
